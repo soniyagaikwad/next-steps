@@ -1,2 +1,2 @@
-# planner-project
-2022 Personal Project
+# Project Planner
+Are you looking to create a planner or to-do list that you can share with your peers and get all your tasks done? WORK will give you access to planners and to-do lists that you can share with your peers to get the job done effectively!
