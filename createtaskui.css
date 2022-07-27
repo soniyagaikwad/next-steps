@@ -1,0 +1,375 @@
+/* background */
+body {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: #EDE0D4;
+}
+
+/* work. */
+#title {
+    position: absolute;
+    width: 176px;
+    height: 80px;
+    left: 631px;
+    top: 17px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #9C6644;
+
+}
+
+/* create task box */
+#create-task-button {
+    position: absolute;
+    width: 301px;
+    height: 64px;
+    left: 44px;
+    top: 25px;
+
+    background: #DDB892;
+}
+
+/* create new task */
+#create-task {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 60px;
+    top: 34px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* share box */
+#share-button {
+    position: absolute;
+    width: 184px;
+    height: 64px;
+    left: 1212px;
+    top: 25px;
+
+    background: #DDB892;
+}
+
+/* share */
+#share {
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 1225px;
+    top: 34px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* reorganize task box */
+#reorganize-task-button {
+    position: absolute;
+    width: 301px;
+    height: 64px;
+    left: 44px;
+    top: 930px;
+
+    background: #DDB892;
+}
+
+/* reorganize task */
+#reorganize-task {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 57px;
+    top: 938px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* delete task box */
+#delete-task-button {
+    position: absolute;
+    width: 301px;
+    height: 64px;
+    left: 569px;
+    top: 939px;
+
+    background: #DDB892;
+}
+
+/* delete task */
+#delete-task {
+    position: absolute;
+    width: 205px;
+    height: 47px;
+    left: 617px;
+    top: 947px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* history box */
+#history-button {
+    position: absolute;
+    width: 184px;
+    height: 64px;
+    left: 1212px;
+    top: 939px;
+
+    background: #DDB892;
+}
+
+/* history */
+#history {
+    position: absolute;
+    width: 158px;
+    height: 46px;
+    left: 1225px;
+    top: 948px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* asap box */
+#asap-box {
+    position: absolute;
+    width: 340px;
+    height: 794px;
+    left: 136px;
+    top: 114px;
+
+    background: #E6CCB2;
+}
+
+/* asap */
+#asap {
+    position: absolute;
+    width: 306px;
+    height: 54px;
+    left: 152px;
+    top: 127px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #7F5539;
+}
+
+/* upcoming box */
+#upcoming-box {
+    position: absolute;
+    width: 340px;
+    height: 794px;
+    left: 550px;
+    top: 115px;
+
+    background: #B08968;
+}
+
+/* upcoming */
+#upcoming {
+    position: absolute;
+    width: 306px;
+    height: 54px;
+    left: 567px;
+    top: 127px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #E6CCB2;
+}
+
+/* whenever box */
+#whenever-box {
+    position: absolute;
+    width: 340px;
+    height: 794px;
+    left: 964px;
+    top: 115px;
+
+    background: #7F5539;
+}
+
+/* whenever */
+#whenever {
+    position: absolute;
+    width: 306px;
+    height: 54px;
+    left: 981px;
+    top: 127px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #B08968;
+}
+
+/* opacity changing box */
+#opacity-changing-box {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+/* create new task box */
+#create-new-task-box {
+    position: absolute;
+    width: 631px;
+    height: 412px;
+    left: 404px;
+    top: 305px;
+
+    background: #7F5539;
+    mix-blend-mode: normal;
+}
+
+/* x */
+#exit {
+    position: absolute;
+    width: 40px;
+    height: 47px;
+    left: 412px;
+    top: 316px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* create new task */
+#create-new-task {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 585px;
+    top: 329px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* name: */
+#name {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 434px;
+    top: 406px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #E6CCB2;
+}
+
+/* due date: */
+#due-date {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 432px;
+    top: 515px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #DDB892;
+}
+
+/* time frame: */
+#time-frame {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 432px;
+    top: 624px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #B08968;
+}
