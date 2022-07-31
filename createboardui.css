@@ -1,0 +1,319 @@
+/* background */
+body {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+    background: #EDE0D4;
+}
+
+/* work. */
+#work1 {
+    position: absolute;
+    width: 176px;
+    height: 80px;
+    left: 218px;
+    top: 173px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #9C6644;
+}
+
+/* work. */
+#work2 {
+    position: absolute;
+    width: 176px;
+    height: 80px;
+    left: 633px;
+    top: 173px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #9C6644;
+}
+
+/* work. */
+#work3 {
+    position: absolute;
+    width: 176px;
+    height: 80px;
+    left: 1047px;
+    top: 173px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #9C6644;
+}
+
+/* work. */
+#work4 {
+    position: absolute;
+    width: 176px;
+    height: 80px;
+    left: 218px;
+    top: 771px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #9C6644;
+}
+
+/* work. */
+#work5 {
+    position: absolute;
+    width: 176px;
+    height: 80px;
+    left: 633px;
+    top: 771px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #9C6644;
+}
+
+/* work. */
+#work6 {
+    position: absolute;
+    width: 176px;
+    height: 80px;
+    left: 1047px;
+    top: 771px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: #9C6644;
+}
+
+/* create new task board box */
+#create-task-board-button {
+    position: absolute;
+    width: 340px;
+    height: 198px;
+    left: 136px;
+    top: 413px;
+
+    background: #E6CCB2;
+}
+
+/* create a new task board */
+#create-task-board {
+    position: absolute;
+    width: 205px;
+    height: 173px;
+    left: 199px;
+    top: 425px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #7F5539;
+}
+
+/* already have a board box */
+#already-have-board-button {
+    position: absolute;
+    width: 340px;
+    height: 198px;
+    left: 550px;
+    top: 413px;
+
+    background: #B08968;
+}
+
+/* already have an existing board */
+#already-have-board {
+    position: absolute;
+    width: 306px;
+    height: 173px;
+    left: 567px;
+    top: 425px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #E6CCB2;
+}
+
+/* forgot board box */
+#forgot-task-board-button {
+    position: absolute;
+    width: 340px;
+    height: 198px;
+    left: 964px;
+    top: 413px;
+
+    background: #7F5539;
+}
+
+/* forgot existing task board */
+#forgot-task-board {
+    position: absolute;
+    width: 306px;
+    height: 173px;
+    left: 981px;
+    top: 425px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 54px;
+    text-align: center;
+
+    color: #B08968;
+}
+
+/* opacity changing box */
+#opacity-changing-box {
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: 0px;
+
+    background: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+/* create new task board box */
+#create-new-task-board-box {
+    position: absolute;
+    width: 631px;
+    height: 412px;
+    left: 404px;
+    top: 305px;
+
+    background: #7F5539;
+    mix-blend-mode: normal;
+}
+
+/* x */
+#exit {
+    position: absolute;
+    width: 40px;
+    height: 47px;
+    left: 412px;
+    top: 316px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* create new task board */
+#create-new-task-board {
+    position: absolute;
+    width: 379px;
+    height: 47px;
+    left: 531px;
+    top: 333px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #EDE0D4;
+}
+
+/* name: */
+#name {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 434px;
+    top: 406px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #E6CCB2;
+}
+
+/* password: */
+#password {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 432px;
+    top: 515px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #DDB892;
+}
+
+/* share: */
+#share {
+    position: absolute;
+    width: 269px;
+    height: 47px;
+    left: 432px;
+    top: 624px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+
+    color: #B08968;
+}
